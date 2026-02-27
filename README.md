@@ -5,7 +5,7 @@ change "Instalation" to "Installation"
 
 # Shayanne VCC Project
 
-This repository is for the VCC class Git workflow assignment.
+This repository is for the VCC assignment 2.
 
 **Author:** Shayanne Rocha  
 **Date:** 2026-02-26
